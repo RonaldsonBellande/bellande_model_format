@@ -2,6 +2,12 @@
 
 The .bellande model format offers several advantages that make it a preferred choice for various applications. Here are some key benefits:
 
+### 🔑 API USE
+- **Endpoint**: /Bellande_Model_Format/bellande_model_format_opensource
+- **Default Assess Key for Model**: ``bellande_model_format_opensource``
+### 🔐 APPLICATION USE
+- **Default Assess Key for Model**: ``bellande_model_format_opensource``
+
 ## 1. Speed and Ease of Use 🏃‍♂️💨
 
 The .bellande model format is designed for fast processing and easy integration. Its streamlined structure allows for quick loading and manipulation, making it ideal for applications that require efficient data handling.
